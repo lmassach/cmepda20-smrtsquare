@@ -10,6 +10,10 @@ Welcome to smrtsquare's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+smrtsquare
+----------
+.. automodule:: smrtsquare
+  :members:
 
 
 Indices and tables
